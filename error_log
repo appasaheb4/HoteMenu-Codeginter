@@ -1,0 +1,205 @@
+[14-Oct-2017 06:33:22 Etc/GMT] PHP Fatal error:  Call to undefined function base_url() in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 5
+[14-Oct-2017 06:37:23 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:37:31 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:38:30 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:38:34 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:39:42 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:40:21 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:40:26 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 06:40:31 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 07:13:59 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 07:14:59 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 07:15:07 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 07:15:25 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[14-Oct-2017 07:15:30 Etc/GMT] PHP Fatal error:  Call to a member function flashdata() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/views/adminDashboard/index.php on line 76
+[26-Oct-2017 16:21:27 Etc/GMT] PHP Fatal error:  Call to undefined method AddRestaurantsMo::getIserMenuData() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddRestaurants.php on line 7
+[26-Oct-2017 16:21:34 Etc/GMT] PHP Fatal error:  Call to undefined method AddRestaurantsMo::getIserMenuData() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddRestaurants.php on line 7
+[04-Nov-2017 11:07:19 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 236
+[04-Nov-2017 11:08:13 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 236
+[04-Nov-2017 11:09:07 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 236
+[04-Nov-2017 11:10:36 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 237
+[04-Nov-2017 11:32:13 Etc/GMT] PHP Fatal error:  Class 'Fcm' not found in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 271
+[04-Nov-2017 17:43:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function sentNotificationAll() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 81
+[04-Nov-2017 12:23:37 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:23:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:23:45 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:23:50 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:23:53 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:24:26 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:24:28 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[04-Nov-2017 12:24:32 Etc/GMT] PHP Parse error:  syntax error, unexpected ''<b>'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 79
+[05-Nov-2017 14:10:01 Etc/GMT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[05-Nov-2017 14:11:33 Etc/GMT] PHP Fatal error:  Call to undefined function tokenNoUpdate() in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[05-Nov-2017 14:24:22 Etc/GMT] PHP Fatal error:  Call to undefined function tokenNoUpdate() in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[05-Nov-2017 14:24:33 Etc/GMT] PHP Fatal error:  Call to undefined function tokenNoUpdate() in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[05-Nov-2017 14:26:09 Etc/GMT] PHP Fatal error:  Call to undefined function tokenNoUpdate() in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[05-Nov-2017 15:06:10 Etc/GMT] PHP Fatal error:  Call to undefined function tokenNoUpdate() in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 122
+[06-Nov-2017 15:53:28 Asia/Kolkata] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 15:54:23 Asia/Kolkata] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 16:14:45 Asia/Kolkata] PHP Fatal error:  Class 'DbOperation' not found in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 250
+[06-Nov-2017 16:15:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 252
+[06-Nov-2017 16:18:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function sendNotification() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 255
+[06-Nov-2017 11:06:48 Etc/GMT] PHP Fatal error:  Cannot use [] for reading in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 250
+[06-Nov-2017 16:44:27 Asia/Kolkata] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 17:08:44 Asia/Kolkata] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:01:03 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:02:56 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:02:56 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:03:26 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:05:11 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:07:43 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:14:10 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 281
+[06-Nov-2017 12:14:44 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 279
+[06-Nov-2017 12:15:24 Etc/GMT] PHP Fatal error:  Call to undefined function sendFCM() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 279
+[06-Nov-2017 12:24:37 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:25:05 Etc/GMT] PHP Fatal error:  Cannot redeclare sendFCM() (previously declared in /home/newappte/public_html/menuapphybrid.com/manunoty.php:15) in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 35
+[06-Nov-2017 12:29:08 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 17
+[06-Nov-2017 12:29:08 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 17
+[06-Nov-2017 12:29:08 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 39
+[06-Nov-2017 12:29:09 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 17
+[06-Nov-2017 12:29:09 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 17
+[06-Nov-2017 12:29:09 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 39
+[06-Nov-2017 12:30:13 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:30:13 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:30:13 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 25
+[06-Nov-2017 12:31:14 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:31:14 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 13
+[06-Nov-2017 12:31:14 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:31:14 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 13
+[06-Nov-2017 12:31:14 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 12:31:33 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:31:33 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 13
+[06-Nov-2017 12:31:33 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 12:31:33 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 13
+[06-Nov-2017 12:31:33 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 4
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 5
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 6
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 15
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 15
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 15
+[06-Nov-2017 14:37:04 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/manunoty.php on line 15
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 14
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 15
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:37:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:37:47 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:37:47 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 12
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 14
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 15
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 26
+[06-Nov-2017 14:38:10 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 35
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 5
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 6
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 7
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 14:38:46 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 5
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 6
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 7
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:03 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 5
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: body in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 6
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: title in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 7
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Use of undefined constant tokenNo - assumed 'tokenNo' in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 16
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Constant API_ACCESS_KEY already defined in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 28
+[06-Nov-2017 15:32:17 Etc/GMT] PHP Notice:  Undefined variable: icon in /home/newappte/public_html/menuapphybrid.com/sentNo.php on line 37
+[08-Nov-2017 04:10:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 100
+[08-Nov-2017 04:10:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/newappte/public_html/menuapphybrid.com/application/controllers/LoginPage.php on line 100
+[01-Dec-2017 03:21:54 Etc/GMT] PHP Fatal error:  Call to undefined method AddRestaurants::handle_error() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddRestaurants.php on line 115
+[02-Dec-2017 09:32:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function toLowerCase() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 183
+[02-Dec-2017 09:37:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function toLowerCase() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 183
+[02-Dec-2017 09:37:23 Asia/Kolkata] PHP Fatal error:  Call to undefined function toLowerCase() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 183
+[02-Dec-2017 09:37:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function toLowerCase() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 183
+[24-Jan-2018 03:21:45 Etc/GMT] PHP Fatal error:  Function name must be a string in /home/newappte/public_html/menuapphybrid.com/application/controllers/GetGoogleMap.php on line 30
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:26 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:44:35 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:52:37 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:55:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 8
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Undefined offset: 0 in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[24-Jan-2018 03:57:05 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/newappte/public_html/menuapphybrid.com/get_data.php on line 9
+[06-Feb-2018 18:20:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function compress() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 90
+[06-Feb-2018 18:23:17 Asia/Kolkata] PHP Fatal error:  Call to undefined function compress() in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 90
+[09-Feb-2018 03:33:52 Etc/GMT] PHP Fatal error:  Call to a member function do_upload() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 211
+[09-Feb-2018 03:35:07 Etc/GMT] PHP Fatal error:  Call to a member function do_upload() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 211
+[09-Feb-2018 03:35:36 Etc/GMT] PHP Fatal error:  Call to a member function do_upload() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 211
+[09-Feb-2018 03:37:42 Etc/GMT] PHP Fatal error:  Call to a member function do_upload() on a non-object in /home/newappte/public_html/menuapphybrid.com/application/controllers/AddMenu.php on line 211
